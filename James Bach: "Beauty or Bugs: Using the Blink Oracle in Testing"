@@ -1,1 +1,13 @@
 James Bach: "Beauty or Bugs: Using the Blink Oracle in Testing"
+
+1/ A test is not a thing, it is a human experience
+2/ Key heuristic of Exploratory test design
+Detach yourself from "pass" and "fail"
+Instead ask "What problems can I see"
+Because focusing on signs of problems, in an open-ended way, helpd maximisze 
+the probability of finding them (especially problems you disn't anticipate)
+3/ Oracle-related Heuristics to keep in mind
+* A trigger heuristic 
+* A radiator heuristic
+* A decider Heuristic 
+* An oracle is a heuristic for recognizing a bug when you encounter it
