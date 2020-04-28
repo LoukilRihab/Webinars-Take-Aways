@@ -11,3 +11,10 @@ the probability of finding them (especially problems you disn't anticipate)
 * A radiator heuristic
 * A decider Heuristic 
 * An oracle is a heuristic for recognizing a bug when you encounter it
+* Sensemaking is a huge part of testing
+* Magic can happen when you encounter data that is overwhelming for your senses
+* A blink oracle is an oracle wherein a tester encounters a radiator of overwhelming information and reacts to it
+* A mechanical oracle is one based on a algorithmic procedure, independant of human reaction
+* The mix of the two is interesting
+* Forms of blinks: Zoom blinks, Speed blinks, Flip blinks, Audio blinks (challenging to realize)
+* Blink oracles heuristics: educate the intuition, overwhelm the senses, ugliness is bugliness
